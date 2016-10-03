@@ -1,6 +1,6 @@
 The MIT License (MIT)
 
-Copyright (c) Akshay Kadam <akshaykadam0904@gmail.com> (http://github.com/deadcoder0904)
+Copyright (c) [Akshay Kadam](http://github.com/deadcoder0904) <akshaykadam0904@gmail.com> 
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
