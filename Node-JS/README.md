@@ -2,7 +2,7 @@
 
 ## License
 
-MIT © [Akshay Kadam](https://github.com/deadcoder0904)
+[WTFPL](LICENSE.md) © [Akshay Kadam](https://github.com/deadcoder0904)
 
 ### Made by A2K
 
