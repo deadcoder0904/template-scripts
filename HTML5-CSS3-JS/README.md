@@ -1,4 +1,4 @@
-# html5, css3, jquery, tachyons
+# html5, css3, js
 
 ## License
 
