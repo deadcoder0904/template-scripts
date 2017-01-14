@@ -21,5 +21,8 @@ module.exports = {
 		    { test: /\.svg$/, loader: "file" }
 		]
 	},
+	resolve: {
+		extensions: ['', '.js', '.jsx']
+	},
 	plugins: [HtmlWebpackPluginConfig]
 }
